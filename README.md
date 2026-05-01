@@ -50,11 +50,11 @@ Developed a clickable prototype using Figma to simulate real user interaction an
 - Hands-on experience with Figma  
 
 ---
-### High Fedility Wireframe
-![High fedility wireframe](./aurafloww.png)
+### High Fidelity Wireframe
+![High fidelity wireframe](./aurafloww.png)
 
-### Low Fedility Wireframe
-![Low Fedility Wireframe](./lowfedilitywireframe.png)
+### Low Fidelity Wireframe
+![Low Fidelity Wireframe](./lowfedilitywireframe.png)
 
 ##  Files Included
 - Full wireframe set (AuraFlow design)
