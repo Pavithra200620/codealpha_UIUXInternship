@@ -58,36 +58,14 @@ The wireframes represent the basic structure and user flow of the app before app
 
 ---
 
-## 📱 Wireframe Screens
 
-### 1. Welcome Screen
-![Welcome](./welcome.png)
 
-### 2. Home Screen
-![Home](./home.png)
 
-### 3. Profile Screen
-![Profile](./profile.png)
-
-### 4. Sign In / Sign Up
-![SignIn](./signin.png)
-![SignUp](./signup.png)
-
-### 5. Search Screen
-![Search](./search.png)
-
-### 6. Progress Screen
-![Progress](./progress.png)
-
-### 7. Timer Screen
-![Timer](./timer.png)
-
----
-### fullwireframe high fedility
+### High Fedility Wireframe
 ![High fedility wireframe](./aurafloww.png)
 
-### low fedility wireframe
-![Low Fedility Wireframe](./loefedilitywireframe.png)
+### Low Fedility Wireframe
+![Low Fedility Wireframe](./lowfedilitywireframe.png)
 
 ## 📁 Files Included
 - Full wireframe set (AuraFlow design)
