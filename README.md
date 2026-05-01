@@ -63,8 +63,6 @@ Developed a clickable prototype using Figma to simulate real user interaction an
 
 ---
 
-## 🎯 Objective
-To understand user flow, layout structure, and interaction design before moving into high-fidelity UI design.
 
-## 🙏 Acknowledgement
+## Acknowledgement
 I would like to thank CodeAlpha for providing this opportunity to learn and work on real-world UI/UX design tasks.
